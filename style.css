@@ -177,6 +177,11 @@ footer a {
   text-decoration: underline;
 }
 
+footer a:hover {
+  color: #f0cf5f;
+  text-decoration: underline;
+}
+
 .fa-large {
   /* color: #f0cf5f; */
   color: white;
