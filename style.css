@@ -35,21 +35,8 @@ header,
   background: url(img/back.jpg) !important;
 }
 
-.logo {
-  z-index: 999 !important;
-  width: 170px;
-}
-
 .logo-white {
-  width: 50px;
-}
-
-.title {
-  padding: 10px;
-  padding-top: 15px;
-  padding-bottom: 0;
-  width: 300px;
-  margin: 0 auto;
+  width: 40px;
 }
 
 main {
@@ -58,11 +45,12 @@ main {
   background-color: #2c2c2c;
   background-color: black !important;
   background: url(img/back.jpg) !important;
+  margin-top: -25px;
 }
 
 .tagline {
   padding-top: 70px;
-  padding-bottom: 100px;
+
   border-bottom: 2px solid black;
   background-image: url(img/lights.jpg);
   background-size: cover;
@@ -94,9 +82,24 @@ main {
   padding: 30px 30px;
 }
 
+.title {
+  padding: 10px;
+  padding-top: 7px;
+  padding-bottom: 0;
+  margin: 0 auto;
+}
+
 h1 {
   color: white;
   font-weight: 600;
+  margin-top: 7px;
+}
+
+.btn-light {
+  padding: 10px 20px;
+  font-weight: bold;
+  color: #274456;
+  margin-top: 40px;
 }
 
 /* ------ Home ------ */
