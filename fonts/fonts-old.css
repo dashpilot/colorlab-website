@@ -1,0 +1,11 @@
+@import url("https://fast.fonts.net/lt/1.css?apiType=css&c=50969180-712a-4079-aceb-7dc21fbc11c9&fontids=5727418,5727445");
+@font-face{
+    font-family:"ITC Clearface W01 Heavy";
+    src:url("Fonts/5727418/1378e0d7-20e3-4b66-8c3f-314721dd622d.eot?#iefix");
+    src:url("Fonts/5727418/1378e0d7-20e3-4b66-8c3f-314721dd622d.eot?#iefix") format("eot"),url("Fonts/5727418/322b6fb9-4f2f-48a9-8625-df8d379654da.woff2") format("woff2"),url("Fonts/5727418/eb38677e-9e0c-4aa6-b926-8e9e5bd6437b.woff") format("woff"),url("Fonts/5727418/21b49974-3ffd-44ca-857a-99c10a11b4be.ttf") format("truetype");
+}
+@font-face{
+    font-family:"ITC Clearface W01 Regular";
+    src:url("Fonts/5727445/407fe13b-b628-4aed-916e-14e1b43979b3.eot?#iefix");
+    src:url("Fonts/5727445/407fe13b-b628-4aed-916e-14e1b43979b3.eot?#iefix") format("eot"),url("Fonts/5727445/950db29f-e9ed-4c1c-a0ab-955d0b1e1140.woff2") format("woff2"),url("Fonts/5727445/014ca237-d3c2-452e-b0c1-a4e612568de4.woff") format("woff"),url("Fonts/5727445/a636df60-7b95-4ff0-9446-cd4f801b9b92.ttf") format("truetype");
+}
