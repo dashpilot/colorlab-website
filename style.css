@@ -43,8 +43,8 @@ nav {
 }
 
 .logo-white {
-  width: 35px;
-  margin-right: 20px;
+  width: 70px;
+  margin-bottom: 10px;
 }
 
 main {
@@ -57,7 +57,7 @@ main {
 }
 
 .tagline {
-  padding-top: 30px;
+  padding-top: 70px;
   border-bottom: 2px solid black;
   background-image: url(img/lights.jpg);
   background-size: cover;
@@ -91,7 +91,7 @@ main {
 
 .title {
   padding: 10px;
-  padding-top: 7px;
+  padding-top: 0px;
   padding-bottom: 0;
   margin: 0 auto;
 }
@@ -256,6 +256,11 @@ footer a:hover {
   color: white;
   font-size: 40px;
   margin-bottom: 30px;
+}
+
+.fa-med {
+  color: white;
+  font-size: 25px;
 }
 
 h4 a {
