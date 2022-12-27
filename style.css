@@ -36,7 +36,8 @@ header,
 }
 
 .logo-white {
-  width: 40px;
+  width: 180px;
+  margin-bottom: 70px;
 }
 
 main {
@@ -49,8 +50,7 @@ main {
 }
 
 .tagline {
-  padding-top: 70px;
-
+  padding-top: 20px;
   border-bottom: 2px solid black;
   background-image: url(img/lights.jpg);
   background-size: cover;
@@ -93,6 +93,11 @@ h1 {
   color: white;
   font-weight: 600;
   margin-top: 7px;
+}
+
+h3 {
+  font-weight: 400 !important;
+  margin-bottom: 10px;
 }
 
 .btn-light {
