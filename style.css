@@ -94,6 +94,8 @@ main {
   padding-top: 0px;
   padding-bottom: 0;
   margin: 0 auto;
+  display: block;
+  width: 200px;
 }
 
 h1 {
